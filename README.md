@@ -16,5 +16,9 @@ Some test data has been added to the tables “visits” and “visit_record”.
 ![Records](https://github.com/Natalia-QA1/SQL-queries/blob/9515d4dc587a079230daec1f966ad0b93449ffc0/assets/DBmedvisitrecord.jpg)
 
 SQl queries examples can see in DBMed.sql 
-
+#
 Examples results of some queries:
+![sql1](https://github.com/Natalia-QA1/SQL-queries/blob/7b4b8c79602f2b830faa066f9a85380a8b4a4165/assets/sql1.jpg)
+![sql2](https://github.com/Natalia-QA1/SQL-queries/blob/7b4b8c79602f2b830faa066f9a85380a8b4a4165/assets/sql2.jpg)
+![sql3](https://github.com/Natalia-QA1/SQL-queries/blob/7b4b8c79602f2b830faa066f9a85380a8b4a4165/assets/sql3.jpg)
+![sql4](https://github.com/Natalia-QA1/SQL-queries/blob/7b4b8c79602f2b830faa066f9a85380a8b4a4165/assets/sql4.jpg)
